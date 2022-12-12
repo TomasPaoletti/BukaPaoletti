@@ -1,21 +1,34 @@
-![image](https://github.com/TomasPaoletti/BukaPaoletti/blob/main/public/Assets/Logo/logobar.png)
 
-### Como instalar
+## Título del proyecto:
+
+Buka
+
+## Descripción del proyecto:
+
+El sitio web Buka se presentó como trabajo final para el curso de Coderhouse React.js. Se trata de un e-commerce de latas de cerveza con todas las funcionalidades necesarias para realizar un pedido y es 100% responsivo. La nota final de este proyecto obtuvo un 10.
+
+## Funcionalidades:
+
+- Elegir la cantidad deseada de latas
+- Hacer un filtro por categoria segun el tipo de cerveza
+- Agregar al carrito
+- En el carrito se puede agregar mas productos, eliminar por unidad, vaciar el carrito por completo o finalizar la compra
+
+## ¿Quieres instalar este proyecto?
+
 - git clone https://github.com/TomasPaoletti/BukaPaoletti.git
 - cd BukaPaoletti/
-- npm i
+- npm install
 - npm start
 
-### Tech
+## Tecnologias usadas:
 - HTML
 - CSS
-- Bootstrap
+- Bootstrap-React
 - Material - Mui
-- JavaScript
-- React.js
+- React.js (con distintos hooks)
+- React router dom
+- Firebase
 
-### De que se trata
-Buka es un templo de la birra. 
-Encontraras cualquier estilo, tipo y sabor en nuestra casa, solo una cosa no varia y es la calidad.
-
-### URL https://bukatemplo.netlify.app/
+### Link al sitio: 
+[Buka Templo](https://bukatemplo.netlify.app/)
