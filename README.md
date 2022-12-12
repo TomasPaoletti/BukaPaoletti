@@ -1,4 +1,5 @@
-# Buka Templo
+![image](https://github.com/TomasPaoletti/BukaPaoletti/blob/main/public/Assets/Logo/logobar.png)
+
 ### Como instalar
 - git clone https://github.com/TomasPaoletti/BukaPaoletti.git
 - cd BukaPaoletti/
